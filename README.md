@@ -1,2 +1,3 @@
 # HiraganaGenerator  
-テクスチャからマインクラフトのリソースパックのmodelファイルを作成し、紙のCustomModelDataに追加するやつ。
+テクスチャからマインクラフトのリソースパックのmodelファイルを作成し、  
+紙のCustomModelDataに追加するやつ。
